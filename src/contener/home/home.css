@@ -1,0 +1,37 @@
+.paper{
+    height: 300px;
+    display: flex;
+}
+.nested_paper1{
+display: flex;
+/* margin-left: 100px; */
+/* margin-top: 50px */
+height: 200px;
+}
+.paper_img_1{   
+    position: relative;
+    top: -10px;
+    z-index: 1;
+    width: 10%;
+    
+}
+.paper_img_2{
+    position: relative;
+    top: -10px;
+    z-index: 1;
+    width: 20%;
+
+}
+.paper_img_3{
+    position: relative;
+    top: -10px;
+    z-index: 1;
+    width: 20%;
+
+}
+.paper_img_4{
+    position: relative;
+    top: -10px;
+    z-index: 1;
+    width: 20%;
+}
